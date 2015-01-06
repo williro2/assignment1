@@ -5,10 +5,6 @@ I am married with five young children.
 <P>
 I live in Wyoming.
 
-<<<<<<< HEAD
-
-#Programming Background#
-=======
 #Programming Background#
 My final project in CS 161 was a Battleship-style game.
 <P>
